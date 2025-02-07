@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and Push Updated Log
         run: |
-          git config --global user.name "Ryanda1106"
-          git config --global user.email "ryandakaminari@gmail.com"
+          git config --global user.name "username"
+          git config --global user.email "example@gmail.com"
           git add log.txt
           git commit -m "Update log.txt"
           git push
