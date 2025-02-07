@@ -1,2 +1,0 @@
-[22:49:08 | 07-02-2025] Transaction Confirmed: https://testnet-explorer.saharalabs.ai/tx/0xffdda5df1feb2226065cae8ff1b5611523de93d152375fa306a0a302f663a444
-[00:44:52 | 08-02-2025] Transaction Confirmed: https://testnet-explorer.saharalabs.ai/tx/0xf3921f449717e321ce46b45ee58f7e4718998177b24da141d0eb3b0f07f63961
