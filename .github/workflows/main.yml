@@ -21,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Claim Script
+      - name: Run Script
         run: node saharadaily.js
 
       - name: Commit and Push Updated Log
