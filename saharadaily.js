@@ -37,7 +37,7 @@ async function dailyTransaction(privateKey) {
 }
 async function runTransaction() {
     header();
-    for (const [index, privateKey] of PRIVATE_KEYS.entries()) {
+    for (const privateKey of PRIVATE_KEYS) {
         try {
             await dailyTransaction(privateKey);
             console.log('');
