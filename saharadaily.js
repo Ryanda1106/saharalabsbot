@@ -15,7 +15,7 @@ const PRIVATE_KEYS = JSON.parse(fs.readFileSync('privateKeys.json', 'utf-8'));
 const path = require("path");
 
 function appendLog(message) {
-  fs.appendFileSync('log.txt', message + '\n');
+  fs.appendFileSync('log-sahara.txt', message + '\n');
 }
 
 async function dailyTransaction(privateKey) {
@@ -27,7 +27,7 @@ async function dailyTransaction(privateKey) {
     };
     try {
         const signedTx = await wallet.sendTransaction(tx);
-        const receipt = await signedTx.wait(1);
+        const receipt = await signedTx.wait();
 		const successMesssage = `[${timelog()}] Transaction Confirmed: ${explorer.tx(receipt.hash)}`
         console.log(kleur.green(successMesssage));
 		appendLog(successMesssage)
@@ -37,7 +37,7 @@ async function dailyTransaction(privateKey) {
 }
 async function runTransaction() {
     header();
-    for (const privateKey of PRIVATE_KEYS) {
+    for (const [index, privateKey] of PRIVATE_KEYS.entries()) {
         try {
             await dailyTransaction(privateKey);
             console.log('');
