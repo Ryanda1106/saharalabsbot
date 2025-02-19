@@ -1,1 +1,1 @@
-***Note : This bot for pesonal use, if you want to use this bot please make changes manually for your use***
+***Note : This bot for pesonal use, you can make changes manually for your use***
