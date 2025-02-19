@@ -1,0 +1,76 @@
+name: sahara-labs
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  start-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Fetch GitHub User Info
+        run: |
+          GIT_NAME=$(curl -H "Authorization: token ${{ secrets.PRIVATE_SECRET }}" \
+                         -H "Accept: application/vnd.github.v3+json" \
+                         https://api.github.com/user | jq -r '.login')
+
+          GIT_EMAIL=$(curl -H "Authorization: token ${{ secrets.PRIVATE_SECRET }}" \
+                          -H "Accept: application/vnd.github.v3+json" \
+                          https://api.github.com/user | jq -r '.email')
+
+          if [ -z "$GIT_EMAIL" ] || [ "$GIT_EMAIL" == "null" ]; then
+            GIT_EMAIL="${GIT_NAME}@users.noreply.github.com"
+          fi
+
+          echo "GIT_NAME=$GIT_NAME" >> $GITHUB_ENV
+          echo "GIT_EMAIL=$GIT_EMAIL" >> $GITHUB_ENV
+
+      - name: Fetch privateKeys.json
+        run: |
+          echo "🔄 Fetching privateKeys.json..."
+          
+          RESPONSE=$(curl -s -H "Authorization: token ${{ secrets.PRIVATE_SECRET }}" \
+                            -H "Accept: application/vnd.github.v3+json" \
+                            https://api.github.com/repos/${GIT_NAME}/private/contents/sahara-wallet.json)
+
+          if echo "$RESPONSE" | jq -e '.content' >/dev/null; then
+            echo "$RESPONSE" | jq -r '.content' | base64 --decode > privateKeys.json
+            echo "✅ privateKeys.json fetched successfully."
+          else
+            echo "⚠️ Failed to fetch privateKeys.json. Creating an empty array."
+            echo "[]" > privateKeys.json
+          fi
+
+          # Validation JSON
+          if ! jq empty privateKeys.json >/dev/null 2>&1; then
+            echo "⚠️ Invalid JSON detected! Replacing with an empty array."
+            echo "[]" > privateKeys.json
+          fi
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Script
+        run: node sahara.js
+
+      - name: Commit and Push Updated Log
+        run: |
+            git config --global user.name "$GIT_NAME"
+            git config --global user.email "$GIT_EMAIL"
+            git add log.txt
+            git commit -m "Update log.txt"
+            git push origin main
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup
+        run: rm -f privateKeys.json
