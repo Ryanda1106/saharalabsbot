@@ -28,7 +28,7 @@ async function dailyTransaction(privateKey) {
     try {
         const signedTx = await wallet.sendTransaction(tx);
         const receipt = await signedTx.wait();
-		const successMesssage = `[${timelog()}] Transaction Confirmed: ${explorer.tx(receipt.hash)}`
+	const successMesssage = `[${timelog()}] Transaction Confirmed: ${explorer.tx(receipt.hash.slice(0, 10))}******`
         console.log(kleur.green(successMesssage));
 		appendLog(successMesssage)
     } catch (error) {
