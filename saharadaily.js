@@ -20,7 +20,7 @@ function appendLog(message) {
 
 async function dailyTransaction(privateKey) {
     const wallet = new ethers.Wallet(privateKey, provider);
-	await loading(`Start Transaction for Wallet ${wallet.address}...`, 2000);
+    await loading(`Start Transaction for Wallet ${wallet.address.slice(0, 6)}...${wallet.address.slice(-4)}`, 2000);
     const tx = {
         to: wallet.address,
         value: ethers.parseEther("0.0001"),
@@ -43,8 +43,8 @@ async function runTransaction() {
             console.log('');
         } catch (error) {
             const errorMesssage =`[${timelog()}] Error processing wallet ${index + 1}: ${error.message}`;
-			console.log(kleur.green(errorMessage));
-			appendLog(errorMessage);
+	    console.log(kleur.green(errorMessage));
+	    appendLog(errorMessage);
         }
     }
 }
