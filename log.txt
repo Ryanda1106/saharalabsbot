@@ -1,256 +1,256 @@
-[2025-02-19 17:16:20 | 0x0000...DE66] 🔹 Processing wallet: 0x0000...DE66
-[2025-02-19 17:16:20 | 0x0000...DE66] 🔹 Requesting challenge...
-[2025-02-19 17:16:25 | 0x0000...DE66] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:25 | 0x0000...DE66] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:25 | 0xF59C...ab26] 🔹 Processing wallet: 0xF59C...ab26
-[2025-02-19 17:16:25 | 0xF59C...ab26] 🔹 Requesting challenge...
-[2025-02-19 17:16:30 | 0xF59C...ab26] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:30 | 0xF59C...ab26] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:30 | 0xc67b...dC33] 🔹 Processing wallet: 0xc67b...dC33
-[2025-02-19 17:16:30 | 0xc67b...dC33] 🔹 Requesting challenge...
-[2025-02-19 17:16:35 | 0xc67b...dC33] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:35 | 0xc67b...dC33] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:35 | 0xB256...A874] 🔹 Processing wallet: 0xB256...A874
-[2025-02-19 17:16:35 | 0xB256...A874] 🔹 Requesting challenge...
-[2025-02-19 17:16:41 | 0xB256...A874] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:41 | 0xB256...A874] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:41 | 0x15A6...dADc] 🔹 Processing wallet: 0x15A6...dADc
-[2025-02-19 17:16:41 | 0x15A6...dADc] 🔹 Requesting challenge...
-[2025-02-19 17:16:46 | 0x15A6...dADc] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:46 | 0x15A6...dADc] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:46 | 0xA7C0...71a1] 🔹 Processing wallet: 0xA7C0...71a1
-[2025-02-19 17:16:46 | 0xA7C0...71a1] 🔹 Requesting challenge...
-[2025-02-19 17:16:51 | 0xA7C0...71a1] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:51 | 0xA7C0...71a1] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:51 | 0xCD2c...97ae] 🔹 Processing wallet: 0xCD2c...97ae
-[2025-02-19 17:16:51 | 0xCD2c...97ae] 🔹 Requesting challenge...
-[2025-02-19 17:16:56 | 0xCD2c...97ae] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:56 | 0xCD2c...97ae] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:16:56 | 0x4964...da51] 🔹 Processing wallet: 0x4964...da51
-[2025-02-19 17:16:56 | 0x4964...da51] 🔹 Requesting challenge...
-[2025-02-19 17:17:01 | 0x4964...da51] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:01 | 0x4964...da51] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:01 | 0x9090...f2A4] 🔹 Processing wallet: 0x9090...f2A4
-[2025-02-19 17:17:01 | 0x9090...f2A4] 🔹 Requesting challenge...
-[2025-02-19 17:17:06 | 0x9090...f2A4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:06 | 0x9090...f2A4] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:06 | 0x19a6...b39f] 🔹 Processing wallet: 0x19a6...b39f
-[2025-02-19 17:17:06 | 0x19a6...b39f] 🔹 Requesting challenge...
-[2025-02-19 17:17:11 | 0x19a6...b39f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:11 | 0x19a6...b39f] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:11 | 0xf72D...A4fb] 🔹 Processing wallet: 0xf72D...A4fb
-[2025-02-19 17:17:11 | 0xf72D...A4fb] 🔹 Requesting challenge...
-[2025-02-19 17:17:16 | 0xf72D...A4fb] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:16 | 0xf72D...A4fb] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:16 | 0x6423...722a] 🔹 Processing wallet: 0x6423...722a
-[2025-02-19 17:17:16 | 0x6423...722a] 🔹 Requesting challenge...
-[2025-02-19 17:17:21 | 0x6423...722a] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:21 | 0x6423...722a] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:21 | 0x6889...24D6] 🔹 Processing wallet: 0x6889...24D6
-[2025-02-19 17:17:21 | 0x6889...24D6] 🔹 Requesting challenge...
-[2025-02-19 17:17:26 | 0x6889...24D6] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:26 | 0x6889...24D6] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:26 | 0xeCfC...24eE] 🔹 Processing wallet: 0xeCfC...24eE
-[2025-02-19 17:17:26 | 0xeCfC...24eE] 🔹 Requesting challenge...
-[2025-02-19 17:17:31 | 0xeCfC...24eE] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:31 | 0xeCfC...24eE] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:31 | 0x9eA7...0948] 🔹 Processing wallet: 0x9eA7...0948
-[2025-02-19 17:17:31 | 0x9eA7...0948] 🔹 Requesting challenge...
-[2025-02-19 17:17:36 | 0x9eA7...0948] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:36 | 0x9eA7...0948] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:36 | 0xB31C...d3B1] 🔹 Processing wallet: 0xB31C...d3B1
-[2025-02-19 17:17:36 | 0xB31C...d3B1] 🔹 Requesting challenge...
-[2025-02-19 17:17:41 | 0xB31C...d3B1] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:41 | 0xB31C...d3B1] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:41 | 0x21e6...7F2c] 🔹 Processing wallet: 0x21e6...7F2c
-[2025-02-19 17:17:41 | 0x21e6...7F2c] 🔹 Requesting challenge...
-[2025-02-19 17:17:46 | 0x21e6...7F2c] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:46 | 0x21e6...7F2c] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:46 | 0x4e50...A51F] 🔹 Processing wallet: 0x4e50...A51F
-[2025-02-19 17:17:46 | 0x4e50...A51F] 🔹 Requesting challenge...
-[2025-02-19 17:17:51 | 0x4e50...A51F] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:51 | 0x4e50...A51F] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:51 | 0xd70C...99E2] 🔹 Processing wallet: 0xd70C...99E2
-[2025-02-19 17:17:51 | 0xd70C...99E2] 🔹 Requesting challenge...
-[2025-02-19 17:17:56 | 0xd70C...99E2] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:56 | 0xd70C...99E2] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:17:56 | 0x7606...3b1C] 🔹 Processing wallet: 0x7606...3b1C
-[2025-02-19 17:17:56 | 0x7606...3b1C] 🔹 Requesting challenge...
-[2025-02-19 17:18:01 | 0x7606...3b1C] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:01 | 0x7606...3b1C] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:01 | 0x2277...a323] 🔹 Processing wallet: 0x2277...a323
-[2025-02-19 17:18:01 | 0x2277...a323] 🔹 Requesting challenge...
-[2025-02-19 17:18:06 | 0x2277...a323] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:06 | 0x2277...a323] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:06 | 0x36Bb...9B5C] 🔹 Processing wallet: 0x36Bb...9B5C
-[2025-02-19 17:18:06 | 0x36Bb...9B5C] 🔹 Requesting challenge...
-[2025-02-19 17:18:11 | 0x36Bb...9B5C] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:11 | 0x36Bb...9B5C] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:11 | 0x1596...E5db] 🔹 Processing wallet: 0x1596...E5db
-[2025-02-19 17:18:11 | 0x1596...E5db] 🔹 Requesting challenge...
-[2025-02-19 17:18:17 | 0x1596...E5db] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:17 | 0x1596...E5db] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:17 | 0x7f9A...Ae67] 🔹 Processing wallet: 0x7f9A...Ae67
-[2025-02-19 17:18:17 | 0x7f9A...Ae67] 🔹 Requesting challenge...
-[2025-02-19 17:18:22 | 0x7f9A...Ae67] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:22 | 0x7f9A...Ae67] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:22 | 0x1a73...3A1B] 🔹 Processing wallet: 0x1a73...3A1B
-[2025-02-19 17:18:22 | 0x1a73...3A1B] 🔹 Requesting challenge...
-[2025-02-19 17:18:27 | 0x1a73...3A1B] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:27 | 0x1a73...3A1B] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:27 | 0x5e63...405e] 🔹 Processing wallet: 0x5e63...405e
-[2025-02-19 17:18:27 | 0x5e63...405e] 🔹 Requesting challenge...
-[2025-02-19 17:18:32 | 0x5e63...405e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:32 | 0x5e63...405e] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:32 | 0x1Afe...13bF] 🔹 Processing wallet: 0x1Afe...13bF
-[2025-02-19 17:18:32 | 0x1Afe...13bF] 🔹 Requesting challenge...
-[2025-02-19 17:18:37 | 0x1Afe...13bF] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:37 | 0x1Afe...13bF] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:37 | 0x7cC4...Ac27] 🔹 Processing wallet: 0x7cC4...Ac27
-[2025-02-19 17:18:37 | 0x7cC4...Ac27] 🔹 Requesting challenge...
-[2025-02-19 17:18:42 | 0x7cC4...Ac27] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:42 | 0x7cC4...Ac27] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:42 | 0x0147...fe2f] 🔹 Processing wallet: 0x0147...fe2f
-[2025-02-19 17:18:42 | 0x0147...fe2f] 🔹 Requesting challenge...
-[2025-02-19 17:18:47 | 0x0147...fe2f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:47 | 0x0147...fe2f] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:47 | 0x5Fd5...5d01] 🔹 Processing wallet: 0x5Fd5...5d01
-[2025-02-19 17:18:47 | 0x5Fd5...5d01] 🔹 Requesting challenge...
-[2025-02-19 17:18:52 | 0x5Fd5...5d01] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:52 | 0x5Fd5...5d01] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:52 | 0x0001...B22E] 🔹 Processing wallet: 0x0001...B22E
-[2025-02-19 17:18:52 | 0x0001...B22E] 🔹 Requesting challenge...
-[2025-02-19 17:18:57 | 0x0001...B22E] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:57 | 0x0001...B22E] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:18:57 | 0xe86C...A89D] 🔹 Processing wallet: 0xe86C...A89D
-[2025-02-19 17:18:57 | 0xe86C...A89D] 🔹 Requesting challenge...
-[2025-02-19 17:19:02 | 0xe86C...A89D] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:02 | 0xe86C...A89D] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:02 | 0x7480...41C3] 🔹 Processing wallet: 0x7480...41C3
-[2025-02-19 17:19:02 | 0x7480...41C3] 🔹 Requesting challenge...
-[2025-02-19 17:19:07 | 0x7480...41C3] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:07 | 0x7480...41C3] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:07 | 0x7036...cd73] 🔹 Processing wallet: 0x7036...cd73
-[2025-02-19 17:19:07 | 0x7036...cd73] 🔹 Requesting challenge...
-[2025-02-19 17:19:12 | 0x7036...cd73] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:12 | 0x7036...cd73] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:12 | 0x2ccE...7922] 🔹 Processing wallet: 0x2ccE...7922
-[2025-02-19 17:19:12 | 0x2ccE...7922] 🔹 Requesting challenge...
-[2025-02-19 17:19:17 | 0x2ccE...7922] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:17 | 0x2ccE...7922] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:17 | 0x46F7...D4D7] 🔹 Processing wallet: 0x46F7...D4D7
-[2025-02-19 17:19:17 | 0x46F7...D4D7] 🔹 Requesting challenge...
-[2025-02-19 17:19:22 | 0x46F7...D4D7] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:22 | 0x46F7...D4D7] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:22 | 0x9265...A554] 🔹 Processing wallet: 0x9265...A554
-[2025-02-19 17:19:22 | 0x9265...A554] 🔹 Requesting challenge...
-[2025-02-19 17:19:27 | 0x9265...A554] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:27 | 0x9265...A554] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:27 | 0xdBd5...1cb4] 🔹 Processing wallet: 0xdBd5...1cb4
-[2025-02-19 17:19:27 | 0xdBd5...1cb4] 🔹 Requesting challenge...
-[2025-02-19 17:19:33 | 0xdBd5...1cb4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:33 | 0xdBd5...1cb4] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:33 | 0x4a64...af28] 🔹 Processing wallet: 0x4a64...af28
-[2025-02-19 17:19:33 | 0x4a64...af28] 🔹 Requesting challenge...
-[2025-02-19 17:19:38 | 0x4a64...af28] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:38 | 0x4a64...af28] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:38 | 0x844b...440d] 🔹 Processing wallet: 0x844b...440d
-[2025-02-19 17:19:38 | 0x844b...440d] 🔹 Requesting challenge...
-[2025-02-19 17:19:43 | 0x844b...440d] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:43 | 0x844b...440d] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:43 | 0x18DD...7F1F] 🔹 Processing wallet: 0x18DD...7F1F
-[2025-02-19 17:19:43 | 0x18DD...7F1F] 🔹 Requesting challenge...
-[2025-02-19 17:19:48 | 0x18DD...7F1F] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:48 | 0x18DD...7F1F] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:48 | 0x7294...1131] 🔹 Processing wallet: 0x7294...1131
-[2025-02-19 17:19:48 | 0x7294...1131] 🔹 Requesting challenge...
-[2025-02-19 17:19:53 | 0x7294...1131] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:53 | 0x7294...1131] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:53 | 0xe3d5...db6f] 🔹 Processing wallet: 0xe3d5...db6f
-[2025-02-19 17:19:53 | 0xe3d5...db6f] 🔹 Requesting challenge...
-[2025-02-19 17:19:58 | 0xe3d5...db6f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:58 | 0xe3d5...db6f] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:19:58 | 0x7DDA...A056] 🔹 Processing wallet: 0x7DDA...A056
-[2025-02-19 17:19:58 | 0x7DDA...A056] 🔹 Requesting challenge...
-[2025-02-19 17:20:03 | 0x7DDA...A056] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:03 | 0x7DDA...A056] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:03 | 0x0917...B93e] 🔹 Processing wallet: 0x0917...B93e
-[2025-02-19 17:20:03 | 0x0917...B93e] 🔹 Requesting challenge...
-[2025-02-19 17:20:08 | 0x0917...B93e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:08 | 0x0917...B93e] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:08 | 0xbF21...8350] 🔹 Processing wallet: 0xbF21...8350
-[2025-02-19 17:20:08 | 0xbF21...8350] 🔹 Requesting challenge...
-[2025-02-19 17:20:13 | 0xbF21...8350] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:13 | 0xbF21...8350] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:13 | 0xB3Db...C0AD] 🔹 Processing wallet: 0xB3Db...C0AD
-[2025-02-19 17:20:13 | 0xB3Db...C0AD] 🔹 Requesting challenge...
-[2025-02-19 17:20:18 | 0xB3Db...C0AD] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:18 | 0xB3Db...C0AD] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:18 | 0x0345...a14D] 🔹 Processing wallet: 0x0345...a14D
-[2025-02-19 17:20:18 | 0x0345...a14D] 🔹 Requesting challenge...
-[2025-02-19 17:20:23 | 0x0345...a14D] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:23 | 0x0345...a14D] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:23 | 0x3A64...a6fc] 🔹 Processing wallet: 0x3A64...a6fc
-[2025-02-19 17:20:23 | 0x3A64...a6fc] 🔹 Requesting challenge...
-[2025-02-19 17:20:28 | 0x3A64...a6fc] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:28 | 0x3A64...a6fc] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:28 | 0xf461...4c0d] 🔹 Processing wallet: 0xf461...4c0d
-[2025-02-19 17:20:28 | 0xf461...4c0d] 🔹 Requesting challenge...
-[2025-02-19 17:20:33 | 0xf461...4c0d] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:33 | 0xf461...4c0d] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:33 | 0xd57D...275E] 🔹 Processing wallet: 0xd57D...275E
-[2025-02-19 17:20:33 | 0xd57D...275E] 🔹 Requesting challenge...
-[2025-02-19 17:20:38 | 0xd57D...275E] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:38 | 0xd57D...275E] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:38 | 0x93DD...549c] 🔹 Processing wallet: 0x93DD...549c
-[2025-02-19 17:20:38 | 0x93DD...549c] 🔹 Requesting challenge...
-[2025-02-19 17:20:43 | 0x93DD...549c] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:43 | 0x93DD...549c] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:43 | 0xb7b9...8eE5] 🔹 Processing wallet: 0xb7b9...8eE5
-[2025-02-19 17:20:43 | 0xb7b9...8eE5] 🔹 Requesting challenge...
-[2025-02-19 17:20:48 | 0xb7b9...8eE5] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:48 | 0xb7b9...8eE5] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:48 | 0xEf58...EB45] 🔹 Processing wallet: 0xEf58...EB45
-[2025-02-19 17:20:48 | 0xEf58...EB45] 🔹 Requesting challenge...
-[2025-02-19 17:20:53 | 0xEf58...EB45] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:53 | 0xEf58...EB45] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:53 | 0xcB9e...f723] 🔹 Processing wallet: 0xcB9e...f723
-[2025-02-19 17:20:53 | 0xcB9e...f723] 🔹 Requesting challenge...
-[2025-02-19 17:20:58 | 0xcB9e...f723] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:58 | 0xcB9e...f723] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:20:58 | 0xd1A3...6774] 🔹 Processing wallet: 0xd1A3...6774
-[2025-02-19 17:20:58 | 0xd1A3...6774] 🔹 Requesting challenge...
-[2025-02-19 17:21:04 | 0xd1A3...6774] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:04 | 0xd1A3...6774] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:04 | 0xC55b...A87e] 🔹 Processing wallet: 0xC55b...A87e
-[2025-02-19 17:21:04 | 0xC55b...A87e] 🔹 Requesting challenge...
-[2025-02-19 17:21:09 | 0xC55b...A87e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:09 | 0xC55b...A87e] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:09 | 0x1047...6814] 🔹 Processing wallet: 0x1047...6814
-[2025-02-19 17:21:09 | 0x1047...6814] 🔹 Requesting challenge...
-[2025-02-19 17:21:14 | 0x1047...6814] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:14 | 0x1047...6814] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:14 | 0x0860...1985] 🔹 Processing wallet: 0x0860...1985
-[2025-02-19 17:21:14 | 0x0860...1985] 🔹 Requesting challenge...
-[2025-02-19 17:21:19 | 0x0860...1985] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:19 | 0x0860...1985] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:19 | 0x3ca5...01A6] 🔹 Processing wallet: 0x3ca5...01A6
-[2025-02-19 17:21:19 | 0x3ca5...01A6] 🔹 Requesting challenge...
-[2025-02-19 17:21:24 | 0x3ca5...01A6] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:24 | 0x3ca5...01A6] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:24 | 0x7f39...0eCa] 🔹 Processing wallet: 0x7f39...0eCa
-[2025-02-19 17:21:24 | 0x7f39...0eCa] 🔹 Requesting challenge...
-[2025-02-19 17:21:29 | 0x7f39...0eCa] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:29 | 0x7f39...0eCa] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:29 | 0xF997...8bEB] 🔹 Processing wallet: 0xF997...8bEB
-[2025-02-19 17:21:29 | 0xF997...8bEB] 🔹 Requesting challenge...
-[2025-02-19 17:21:34 | 0xF997...8bEB] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:34 | 0xF997...8bEB] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:34 | 0x2682...f4e4] 🔹 Processing wallet: 0x2682...f4e4
-[2025-02-19 17:21:34 | 0x2682...f4e4] 🔹 Requesting challenge...
-[2025-02-19 17:21:39 | 0x2682...f4e4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:39 | 0x2682...f4e4] ❌ Error: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:39 | 0xeD7e...ecDD] 🔹 Processing wallet: 0xeD7e...ecDD
-[2025-02-19 17:21:39 | 0xeD7e...ecDD] 🔹 Requesting challenge...
-[2025-02-19 17:21:44 | 0xeD7e...ecDD] ❌ Error during login: ❌ Failed to get challenge: Forbidden
-[2025-02-19 17:21:44 | 0xeD7e...ecDD] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:10 | 0x0000...DE66] 🔹 Processing wallet: 0x0000...DE66
+[2025-02-20 17:15:10 | 0x0000...DE66] 🔹 Requesting challenge...
+[2025-02-20 17:15:15 | 0x0000...DE66] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:15 | 0x0000...DE66] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:15 | 0xF59C...ab26] 🔹 Processing wallet: 0xF59C...ab26
+[2025-02-20 17:15:15 | 0xF59C...ab26] 🔹 Requesting challenge...
+[2025-02-20 17:15:20 | 0xF59C...ab26] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:20 | 0xF59C...ab26] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:20 | 0xc67b...dC33] 🔹 Processing wallet: 0xc67b...dC33
+[2025-02-20 17:15:20 | 0xc67b...dC33] 🔹 Requesting challenge...
+[2025-02-20 17:15:25 | 0xc67b...dC33] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:25 | 0xc67b...dC33] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:25 | 0xB256...A874] 🔹 Processing wallet: 0xB256...A874
+[2025-02-20 17:15:25 | 0xB256...A874] 🔹 Requesting challenge...
+[2025-02-20 17:15:30 | 0xB256...A874] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:30 | 0xB256...A874] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:30 | 0x15A6...dADc] 🔹 Processing wallet: 0x15A6...dADc
+[2025-02-20 17:15:30 | 0x15A6...dADc] 🔹 Requesting challenge...
+[2025-02-20 17:15:35 | 0x15A6...dADc] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:35 | 0x15A6...dADc] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:35 | 0xA7C0...71a1] 🔹 Processing wallet: 0xA7C0...71a1
+[2025-02-20 17:15:35 | 0xA7C0...71a1] 🔹 Requesting challenge...
+[2025-02-20 17:15:40 | 0xA7C0...71a1] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:40 | 0xA7C0...71a1] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:40 | 0xCD2c...97ae] 🔹 Processing wallet: 0xCD2c...97ae
+[2025-02-20 17:15:40 | 0xCD2c...97ae] 🔹 Requesting challenge...
+[2025-02-20 17:15:45 | 0xCD2c...97ae] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:45 | 0xCD2c...97ae] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:45 | 0x4964...da51] 🔹 Processing wallet: 0x4964...da51
+[2025-02-20 17:15:45 | 0x4964...da51] 🔹 Requesting challenge...
+[2025-02-20 17:15:50 | 0x4964...da51] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:50 | 0x4964...da51] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:50 | 0x9090...f2A4] 🔹 Processing wallet: 0x9090...f2A4
+[2025-02-20 17:15:50 | 0x9090...f2A4] 🔹 Requesting challenge...
+[2025-02-20 17:15:55 | 0x9090...f2A4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:55 | 0x9090...f2A4] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:15:55 | 0x19a6...b39f] 🔹 Processing wallet: 0x19a6...b39f
+[2025-02-20 17:15:55 | 0x19a6...b39f] 🔹 Requesting challenge...
+[2025-02-20 17:16:00 | 0x19a6...b39f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:00 | 0x19a6...b39f] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:00 | 0xf72D...A4fb] 🔹 Processing wallet: 0xf72D...A4fb
+[2025-02-20 17:16:00 | 0xf72D...A4fb] 🔹 Requesting challenge...
+[2025-02-20 17:16:05 | 0xf72D...A4fb] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:05 | 0xf72D...A4fb] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:05 | 0x6423...722a] 🔹 Processing wallet: 0x6423...722a
+[2025-02-20 17:16:05 | 0x6423...722a] 🔹 Requesting challenge...
+[2025-02-20 17:16:10 | 0x6423...722a] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:10 | 0x6423...722a] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:10 | 0x6889...24D6] 🔹 Processing wallet: 0x6889...24D6
+[2025-02-20 17:16:10 | 0x6889...24D6] 🔹 Requesting challenge...
+[2025-02-20 17:16:15 | 0x6889...24D6] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:15 | 0x6889...24D6] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:15 | 0xeCfC...24eE] 🔹 Processing wallet: 0xeCfC...24eE
+[2025-02-20 17:16:15 | 0xeCfC...24eE] 🔹 Requesting challenge...
+[2025-02-20 17:16:20 | 0xeCfC...24eE] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:20 | 0xeCfC...24eE] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:20 | 0x9eA7...0948] 🔹 Processing wallet: 0x9eA7...0948
+[2025-02-20 17:16:20 | 0x9eA7...0948] 🔹 Requesting challenge...
+[2025-02-20 17:16:25 | 0x9eA7...0948] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:25 | 0x9eA7...0948] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:25 | 0xB31C...d3B1] 🔹 Processing wallet: 0xB31C...d3B1
+[2025-02-20 17:16:25 | 0xB31C...d3B1] 🔹 Requesting challenge...
+[2025-02-20 17:16:30 | 0xB31C...d3B1] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:30 | 0xB31C...d3B1] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:30 | 0x21e6...7F2c] 🔹 Processing wallet: 0x21e6...7F2c
+[2025-02-20 17:16:30 | 0x21e6...7F2c] 🔹 Requesting challenge...
+[2025-02-20 17:16:36 | 0x21e6...7F2c] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:36 | 0x21e6...7F2c] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:36 | 0x4e50...A51F] 🔹 Processing wallet: 0x4e50...A51F
+[2025-02-20 17:16:36 | 0x4e50...A51F] 🔹 Requesting challenge...
+[2025-02-20 17:16:41 | 0x4e50...A51F] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:41 | 0x4e50...A51F] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:41 | 0xd70C...99E2] 🔹 Processing wallet: 0xd70C...99E2
+[2025-02-20 17:16:41 | 0xd70C...99E2] 🔹 Requesting challenge...
+[2025-02-20 17:16:46 | 0xd70C...99E2] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:46 | 0xd70C...99E2] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:46 | 0x7606...3b1C] 🔹 Processing wallet: 0x7606...3b1C
+[2025-02-20 17:16:46 | 0x7606...3b1C] 🔹 Requesting challenge...
+[2025-02-20 17:16:51 | 0x7606...3b1C] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:51 | 0x7606...3b1C] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:51 | 0x2277...a323] 🔹 Processing wallet: 0x2277...a323
+[2025-02-20 17:16:51 | 0x2277...a323] 🔹 Requesting challenge...
+[2025-02-20 17:16:56 | 0x2277...a323] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:56 | 0x2277...a323] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:16:56 | 0x36Bb...9B5C] 🔹 Processing wallet: 0x36Bb...9B5C
+[2025-02-20 17:16:56 | 0x36Bb...9B5C] 🔹 Requesting challenge...
+[2025-02-20 17:17:01 | 0x36Bb...9B5C] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:01 | 0x36Bb...9B5C] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:01 | 0x1596...E5db] 🔹 Processing wallet: 0x1596...E5db
+[2025-02-20 17:17:01 | 0x1596...E5db] 🔹 Requesting challenge...
+[2025-02-20 17:17:06 | 0x1596...E5db] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:06 | 0x1596...E5db] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:06 | 0x7f9A...Ae67] 🔹 Processing wallet: 0x7f9A...Ae67
+[2025-02-20 17:17:06 | 0x7f9A...Ae67] 🔹 Requesting challenge...
+[2025-02-20 17:17:11 | 0x7f9A...Ae67] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:11 | 0x7f9A...Ae67] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:11 | 0x1a73...3A1B] 🔹 Processing wallet: 0x1a73...3A1B
+[2025-02-20 17:17:11 | 0x1a73...3A1B] 🔹 Requesting challenge...
+[2025-02-20 17:17:16 | 0x1a73...3A1B] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:16 | 0x1a73...3A1B] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:16 | 0x5e63...405e] 🔹 Processing wallet: 0x5e63...405e
+[2025-02-20 17:17:16 | 0x5e63...405e] 🔹 Requesting challenge...
+[2025-02-20 17:17:21 | 0x5e63...405e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:21 | 0x5e63...405e] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:21 | 0x1Afe...13bF] 🔹 Processing wallet: 0x1Afe...13bF
+[2025-02-20 17:17:21 | 0x1Afe...13bF] 🔹 Requesting challenge...
+[2025-02-20 17:17:26 | 0x1Afe...13bF] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:26 | 0x1Afe...13bF] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:26 | 0x7cC4...Ac27] 🔹 Processing wallet: 0x7cC4...Ac27
+[2025-02-20 17:17:26 | 0x7cC4...Ac27] 🔹 Requesting challenge...
+[2025-02-20 17:17:31 | 0x7cC4...Ac27] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:31 | 0x7cC4...Ac27] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:31 | 0x0147...fe2f] 🔹 Processing wallet: 0x0147...fe2f
+[2025-02-20 17:17:31 | 0x0147...fe2f] 🔹 Requesting challenge...
+[2025-02-20 17:17:36 | 0x0147...fe2f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:36 | 0x0147...fe2f] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:36 | 0x5Fd5...5d01] 🔹 Processing wallet: 0x5Fd5...5d01
+[2025-02-20 17:17:36 | 0x5Fd5...5d01] 🔹 Requesting challenge...
+[2025-02-20 17:17:41 | 0x5Fd5...5d01] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:41 | 0x5Fd5...5d01] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:41 | 0x0001...B22E] 🔹 Processing wallet: 0x0001...B22E
+[2025-02-20 17:17:41 | 0x0001...B22E] 🔹 Requesting challenge...
+[2025-02-20 17:17:46 | 0x0001...B22E] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:46 | 0x0001...B22E] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:46 | 0xe86C...A89D] 🔹 Processing wallet: 0xe86C...A89D
+[2025-02-20 17:17:46 | 0xe86C...A89D] 🔹 Requesting challenge...
+[2025-02-20 17:17:51 | 0xe86C...A89D] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:51 | 0xe86C...A89D] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:51 | 0x7480...41C3] 🔹 Processing wallet: 0x7480...41C3
+[2025-02-20 17:17:51 | 0x7480...41C3] 🔹 Requesting challenge...
+[2025-02-20 17:17:56 | 0x7480...41C3] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:56 | 0x7480...41C3] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:17:56 | 0x7036...cd73] 🔹 Processing wallet: 0x7036...cd73
+[2025-02-20 17:17:56 | 0x7036...cd73] 🔹 Requesting challenge...
+[2025-02-20 17:18:02 | 0x7036...cd73] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:02 | 0x7036...cd73] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:02 | 0x2ccE...7922] 🔹 Processing wallet: 0x2ccE...7922
+[2025-02-20 17:18:02 | 0x2ccE...7922] 🔹 Requesting challenge...
+[2025-02-20 17:18:07 | 0x2ccE...7922] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:07 | 0x2ccE...7922] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:07 | 0x46F7...D4D7] 🔹 Processing wallet: 0x46F7...D4D7
+[2025-02-20 17:18:07 | 0x46F7...D4D7] 🔹 Requesting challenge...
+[2025-02-20 17:18:12 | 0x46F7...D4D7] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:12 | 0x46F7...D4D7] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:12 | 0x9265...A554] 🔹 Processing wallet: 0x9265...A554
+[2025-02-20 17:18:12 | 0x9265...A554] 🔹 Requesting challenge...
+[2025-02-20 17:18:17 | 0x9265...A554] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:17 | 0x9265...A554] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:17 | 0xdBd5...1cb4] 🔹 Processing wallet: 0xdBd5...1cb4
+[2025-02-20 17:18:17 | 0xdBd5...1cb4] 🔹 Requesting challenge...
+[2025-02-20 17:18:22 | 0xdBd5...1cb4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:22 | 0xdBd5...1cb4] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:22 | 0x4a64...af28] 🔹 Processing wallet: 0x4a64...af28
+[2025-02-20 17:18:22 | 0x4a64...af28] 🔹 Requesting challenge...
+[2025-02-20 17:18:27 | 0x4a64...af28] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:27 | 0x4a64...af28] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:27 | 0x844b...440d] 🔹 Processing wallet: 0x844b...440d
+[2025-02-20 17:18:27 | 0x844b...440d] 🔹 Requesting challenge...
+[2025-02-20 17:18:32 | 0x844b...440d] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:32 | 0x844b...440d] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:32 | 0x18DD...7F1F] 🔹 Processing wallet: 0x18DD...7F1F
+[2025-02-20 17:18:32 | 0x18DD...7F1F] 🔹 Requesting challenge...
+[2025-02-20 17:18:37 | 0x18DD...7F1F] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:37 | 0x18DD...7F1F] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:37 | 0x7294...1131] 🔹 Processing wallet: 0x7294...1131
+[2025-02-20 17:18:37 | 0x7294...1131] 🔹 Requesting challenge...
+[2025-02-20 17:18:42 | 0x7294...1131] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:42 | 0x7294...1131] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:42 | 0xe3d5...db6f] 🔹 Processing wallet: 0xe3d5...db6f
+[2025-02-20 17:18:42 | 0xe3d5...db6f] 🔹 Requesting challenge...
+[2025-02-20 17:18:47 | 0xe3d5...db6f] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:47 | 0xe3d5...db6f] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:47 | 0x7DDA...A056] 🔹 Processing wallet: 0x7DDA...A056
+[2025-02-20 17:18:47 | 0x7DDA...A056] 🔹 Requesting challenge...
+[2025-02-20 17:18:52 | 0x7DDA...A056] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:52 | 0x7DDA...A056] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:52 | 0x0917...B93e] 🔹 Processing wallet: 0x0917...B93e
+[2025-02-20 17:18:52 | 0x0917...B93e] 🔹 Requesting challenge...
+[2025-02-20 17:18:57 | 0x0917...B93e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:57 | 0x0917...B93e] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:18:57 | 0xbF21...8350] 🔹 Processing wallet: 0xbF21...8350
+[2025-02-20 17:18:57 | 0xbF21...8350] 🔹 Requesting challenge...
+[2025-02-20 17:19:02 | 0xbF21...8350] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:02 | 0xbF21...8350] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:02 | 0xB3Db...C0AD] 🔹 Processing wallet: 0xB3Db...C0AD
+[2025-02-20 17:19:02 | 0xB3Db...C0AD] 🔹 Requesting challenge...
+[2025-02-20 17:19:07 | 0xB3Db...C0AD] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:07 | 0xB3Db...C0AD] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:07 | 0x0345...a14D] 🔹 Processing wallet: 0x0345...a14D
+[2025-02-20 17:19:07 | 0x0345...a14D] 🔹 Requesting challenge...
+[2025-02-20 17:19:12 | 0x0345...a14D] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:12 | 0x0345...a14D] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:12 | 0x3A64...a6fc] 🔹 Processing wallet: 0x3A64...a6fc
+[2025-02-20 17:19:12 | 0x3A64...a6fc] 🔹 Requesting challenge...
+[2025-02-20 17:19:17 | 0x3A64...a6fc] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:17 | 0x3A64...a6fc] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:17 | 0xf461...4c0d] 🔹 Processing wallet: 0xf461...4c0d
+[2025-02-20 17:19:17 | 0xf461...4c0d] 🔹 Requesting challenge...
+[2025-02-20 17:19:22 | 0xf461...4c0d] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:22 | 0xf461...4c0d] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:22 | 0xd57D...275E] 🔹 Processing wallet: 0xd57D...275E
+[2025-02-20 17:19:22 | 0xd57D...275E] 🔹 Requesting challenge...
+[2025-02-20 17:19:27 | 0xd57D...275E] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:27 | 0xd57D...275E] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:27 | 0x93DD...549c] 🔹 Processing wallet: 0x93DD...549c
+[2025-02-20 17:19:27 | 0x93DD...549c] 🔹 Requesting challenge...
+[2025-02-20 17:19:32 | 0x93DD...549c] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:32 | 0x93DD...549c] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:32 | 0xb7b9...8eE5] 🔹 Processing wallet: 0xb7b9...8eE5
+[2025-02-20 17:19:32 | 0xb7b9...8eE5] 🔹 Requesting challenge...
+[2025-02-20 17:19:37 | 0xb7b9...8eE5] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:37 | 0xb7b9...8eE5] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:37 | 0xEf58...EB45] 🔹 Processing wallet: 0xEf58...EB45
+[2025-02-20 17:19:37 | 0xEf58...EB45] 🔹 Requesting challenge...
+[2025-02-20 17:19:43 | 0xEf58...EB45] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:43 | 0xEf58...EB45] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:43 | 0xcB9e...f723] 🔹 Processing wallet: 0xcB9e...f723
+[2025-02-20 17:19:43 | 0xcB9e...f723] 🔹 Requesting challenge...
+[2025-02-20 17:19:48 | 0xcB9e...f723] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:48 | 0xcB9e...f723] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:48 | 0xd1A3...6774] 🔹 Processing wallet: 0xd1A3...6774
+[2025-02-20 17:19:48 | 0xd1A3...6774] 🔹 Requesting challenge...
+[2025-02-20 17:19:53 | 0xd1A3...6774] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:53 | 0xd1A3...6774] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:53 | 0xC55b...A87e] 🔹 Processing wallet: 0xC55b...A87e
+[2025-02-20 17:19:53 | 0xC55b...A87e] 🔹 Requesting challenge...
+[2025-02-20 17:19:58 | 0xC55b...A87e] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:58 | 0xC55b...A87e] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:19:58 | 0x1047...6814] 🔹 Processing wallet: 0x1047...6814
+[2025-02-20 17:19:58 | 0x1047...6814] 🔹 Requesting challenge...
+[2025-02-20 17:20:03 | 0x1047...6814] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:03 | 0x1047...6814] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:03 | 0x0860...1985] 🔹 Processing wallet: 0x0860...1985
+[2025-02-20 17:20:03 | 0x0860...1985] 🔹 Requesting challenge...
+[2025-02-20 17:20:08 | 0x0860...1985] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:08 | 0x0860...1985] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:08 | 0x3ca5...01A6] 🔹 Processing wallet: 0x3ca5...01A6
+[2025-02-20 17:20:08 | 0x3ca5...01A6] 🔹 Requesting challenge...
+[2025-02-20 17:20:13 | 0x3ca5...01A6] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:13 | 0x3ca5...01A6] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:13 | 0x7f39...0eCa] 🔹 Processing wallet: 0x7f39...0eCa
+[2025-02-20 17:20:13 | 0x7f39...0eCa] 🔹 Requesting challenge...
+[2025-02-20 17:20:18 | 0x7f39...0eCa] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:18 | 0x7f39...0eCa] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:18 | 0xF997...8bEB] 🔹 Processing wallet: 0xF997...8bEB
+[2025-02-20 17:20:18 | 0xF997...8bEB] 🔹 Requesting challenge...
+[2025-02-20 17:20:23 | 0xF997...8bEB] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:23 | 0xF997...8bEB] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:23 | 0x2682...f4e4] 🔹 Processing wallet: 0x2682...f4e4
+[2025-02-20 17:20:23 | 0x2682...f4e4] 🔹 Requesting challenge...
+[2025-02-20 17:20:28 | 0x2682...f4e4] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:28 | 0x2682...f4e4] ❌ Error: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:28 | 0xeD7e...ecDD] 🔹 Processing wallet: 0xeD7e...ecDD
+[2025-02-20 17:20:28 | 0xeD7e...ecDD] 🔹 Requesting challenge...
+[2025-02-20 17:20:33 | 0xeD7e...ecDD] ❌ Error during login: ❌ Failed to get challenge: Forbidden
+[2025-02-20 17:20:33 | 0xeD7e...ecDD] ❌ Error: ❌ Failed to get challenge: Forbidden
