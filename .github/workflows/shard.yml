@@ -1,4 +1,4 @@
-name: sahara-labs
+name: sahara-labs-shard
 on:
   schedule:
     - cron: '0 17 * * *'
