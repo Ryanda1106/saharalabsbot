@@ -15,7 +15,7 @@ function log(address, message) {
   const timestamp = new Date().toISOString().replace("T", " ").slice(0, 19);
   const logMessage = address 
       ? `[${timestamp} | ${maskedAddress(address)}] ${message}`
-      : ""; // Tambahkan baris kosong
+      : "";
 
   console.log(logMessage);
   logToFile(logMessage);
@@ -27,7 +27,7 @@ async function getChallenge(address) {
     const response = await fetch("https://legends.saharalabs.ai/api/v1/user/challenge", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ address })
+        body: JSON.stringify({ address, timestamp: Date.now() })
     });
 
     if (!response.ok) {
@@ -58,14 +58,15 @@ async function signChallenge(wallet) {
                 "authorization": "Bearer null",
                 "origin": "https://legends.saharalabs.ai",
                 "referer": "https://legends.saharalabs.ai/?code=THWD0T",
-                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                "user-agent": "Mozilla/5.0"
             },
             body: JSON.stringify({
                 address,
                 sig: signature,
                 referralCode: "THWD0T",
                 walletUUID: "",
-                walletName: "MetaMask"
+                walletName: "MetaMask",
+                timestamp: Date.now()
             })
         });
 
@@ -98,7 +99,7 @@ async function sendTaskRequest(accessToken, taskID, address) {
     await fetch("https://legends.saharalabs.ai/api/v1/task/flush", {
         method: "POST",
         headers: { "Content-Type": "application/json", "authorization": `Bearer ${accessToken}` },
-        body: JSON.stringify({ taskID })
+        body: JSON.stringify({ taskID, timestamp: Date.now() })
     });
 
     log(address, `✅ Task ${taskID} - Request successfully sent.`);
@@ -111,7 +112,7 @@ async function sendTaskClaim(accessToken, taskID, address) {
     await fetch("https://legends.saharalabs.ai/api/v1/task/claim", {
         method: "POST",
         headers: { "Content-Type": "application/json", "authorization": `Bearer ${accessToken}` },
-        body: JSON.stringify({ taskID })
+        body: JSON.stringify({ taskID, timestamp: Date.now() })
     });
 
     log(address, `✅ Task ${taskID} - Successfully claimed.`);
@@ -124,7 +125,7 @@ async function sendCheckTask(accessToken, taskID, address) {
     const checkTask = await fetch("https://legends.saharalabs.ai/api/v1/task/dataBatch", {
         method: "POST",
         headers: { "Content-Type": "application/json", "authorization": `Bearer ${accessToken}` },
-        body: JSON.stringify({ taskIDs: [taskID] })
+        body: JSON.stringify({ taskIDs: [taskID], timestamp: Date.now() })
     });
 
     if (!checkTask.ok) {
