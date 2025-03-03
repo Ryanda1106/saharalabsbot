@@ -90,22 +90,6 @@ async function signChallenge(wallet) {
         log(wallet.address, `❌ Error during login: ${error.message}`);
         throw error;
     }
-}
-async function walletInfo(accessToken, address) {
-    log(address, `🔹 Check wallet info...`);
-    await delay(5000);
-    
-    const walletResponse = await fetch("https://legends.saharalabs.ai/api/v1/user/info", {
-        method: "POST",
-        headers: { "Content-Type": "application/json", "authorization": `Bearer ${accessToken}` },
-        body: JSON.stringify({ timestamp: Date.now() })
-    });
-    if (!walletResponse.ok) {
-      throw new Error(`❌ Login failed: ${walletResponse.statusText}`);
-    }
-    const walletData = await walletResponse.json();
-    log(address, `✅ Shard Amount: ${walletData.shardAmount} Shard`);
-}
 async function sendTaskRequest(accessToken, taskID, address) {
     log(address, `🔹 Sending request for Task ${taskID}...`);
     await delay(5000);
@@ -177,7 +161,6 @@ async function sendDailyTask(wallet) {
         for (const taskID of taskIDs) {
             await sendCheckTask(accessToken, taskID, wallet.address);
         }
-        await walletInfo(accessToken, wallet);
         log(wallet.address, "✅ All tasks completed.");
         log("", "");
     } catch (error) {
